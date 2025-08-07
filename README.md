@@ -48,6 +48,14 @@ This Power BI dashboard provides a comprehensive view of the company’s sales p
 
 <img width="878" height="486" alt="Financial Performance Page" src="https://github.com/user-attachments/assets/1e1d45b4-c7aa-41eb-baba-c521482db7f2" />
 
+<img width="885" height="486" alt="Executive Page" src="https://github.com/user-attachments/assets/a30f6104-44a3-49df-bbe2-a2d441097220" />
+
+<img width="878" height="484" alt="Logistic Page" src="https://github.com/user-attachments/assets/bf3bcbe3-08e3-43db-8a80-f12a684b7d9c" />
+
+<img width="880" height="489" alt="Order Details Page" src="https://github.com/user-attachments/assets/bde01fec-5be6-4429-9a01-df0cd1680a13" />
+
+
+
 ---
 
 ## 🛠️ How to Use
