@@ -1,4 +1,4 @@
-# 📊 Sales Performance Dashboard
+# 📊 Sales Data Analysis and Reporting Dashboard 
 
 This Power BI dashboard provides a comprehensive view of the company’s sales performance to help stakeholders make informed business decisions. It consolidates sales data into interactive visualizations, offering insights into revenue trends, product performance, and regional breakdowns.
 
